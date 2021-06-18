@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Vangmay
-- 🌱 I’m currently learning ... machine learning
+- 🌱 I’m currently learning ... neural networks
 - 
