@@ -4,4 +4,5 @@
   - Contact Me: [Here](mailto:vangmay.sachan16@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Vangmay&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vangmay)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
