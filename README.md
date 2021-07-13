@@ -6,5 +6,5 @@
 -![Github Stats](https://github-readme-stats.vercel.app/api?username=Vangmay&show_icons=true&theme=tokyonight&count_private=true)
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vangmay&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vangmay&repo=website)](https://github.com/Vangmay/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vangmay&repo=website&theme=synthwave)](https://github.com/Vangmay/website)
 
