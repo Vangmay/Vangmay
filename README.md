@@ -4,7 +4,7 @@
   - Contact Me: [Here](mailto:vangmay.sachan16@gmail.com)
 
 
- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Vangmay&show_icons=true&theme=onedark&count_private=true)](https://thebinary-pages.com/)
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=Vangmay&show_icons=true&theme=material-palenight&count_private=true)](https://thebinary-pages.com/)
  
  
  
