@@ -1,6 +1,6 @@
 - 010110110110111
   - Hi, I’m @Vangmay
-  - I’m currently learning ... C++, Node and React
+  - I’m currently learning ... C++, Node and React js
   - Contact Me: [Here](mailto:vangmay.sachan16@gmail.com)
 
 
